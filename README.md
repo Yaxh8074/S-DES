@@ -1,4 +1,4 @@
-# S-DES
+# Simplified-Data Encrytion Standard
  a website for encrypting and decrypting using S-DES: https://yaxh8074.github.io/S-DES/
 
 
